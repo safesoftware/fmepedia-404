@@ -1,4 +1,4 @@
-fmepedia-template
+fmepedia-404
 =================
 
-A template for creating new FMEPedia demos and tutorials.
+A boring 404 page with a fancy lizard.
